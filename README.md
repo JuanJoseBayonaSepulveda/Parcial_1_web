@@ -1,5 +1,6 @@
 # Parcial_1_web
 Primer parcial de desarrollo web
+
 #### Preguntas teóricas
 
  1. HTML se define como:
